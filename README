@@ -1,2 +1,12 @@
-#This is a CRUD app I made using php and mySQL.
-#Made for learning purpose
+#This is a CRUD app I made using php and mySQL then later moved to Postgress DB.
+
+           #TO RUN THE APP IN YOUR MACHINE
+
+#install PDO extension to connect php to DB.
+#create a database and call it products.
+#create a products_crud table with values (id,title,description,image,price and create_date).
+#In the database.php file,
+#replace the dsn string with the details of your database to connect.
+#run your localhost server
+
+#Made for practice purpose
